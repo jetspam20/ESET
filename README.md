@@ -2,8 +2,8 @@
 
 این کد هارو در ترمینال بزنید
 
-git clone https://github.com/AsTaEbot/eset.git
-cd eset
+git clone https://github.com/SAMIYAR-BANG/ESET.git
+cd ESET
 chmod +x bot
 ./bot install
 ----------------------------------------------
@@ -22,14 +22,14 @@ ______________________________________________
 
 برای روشن نگه داشتن
 
-killall screen && killall bash && killalll tmux && cd eset && screen ./bot cli
+killall screen && killall bash && killalll tmux && cd ESET && screen ./bot cli
 
 ترمینال جدید باز کنید و دستور زیر رو بزنید
 
-cd eset && screen ./bot api
+cd ESET && screen ./bot api
 
 برای ست کردن فان دستور زیر رو وارد کنید
 
-cd eset && unzip data.zip
+cd ESET && unzip data.zip
 
 ________________________________________________________________________________
