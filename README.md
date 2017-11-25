@@ -39,6 +39,8 @@ cd ESET && screen ./bot api
 cd ESET && unzip data.zip
 
 ________________________________________________________________________________
-#debugger
+# debugger
+
 [SAMIYAR BANG](https://telegram.me/ghosts_prince)
+
 [CHANNEL](https://telegram.me/BANGER_TEAM)
