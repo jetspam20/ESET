@@ -41,6 +41,6 @@ cd ESET && unzip data.zip
 ________________________________________________________________________________
 # debugger
 
-[SAMIYAR BANG](https://telegram.me/ghosts_prince)
+[BG Ali](https://telegram.me/BG_Ali)
 
 [CHANNEL](https://telegram.me/BANGER_TEAM)
